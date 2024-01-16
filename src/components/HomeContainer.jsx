@@ -30,11 +30,12 @@ const HomeContainer = () => {
           </span>
         </p>
 
-        <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
+        {/* <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
           The Bitd Canteen offers the students and faculties
           the wide variety of aadelicacies for the dinner , which are
           affordable and not too expensive.
-        </p>
+        </p> */}
+        
 
         <button
           type="button"
